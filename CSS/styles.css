@@ -12,8 +12,7 @@
 }
 .hero{
   margin: 0 auto;
-
 }
-.row{
-  border: 5px #7fff00;
+.overflow{
+  padding-bottom: 50px;
 }
