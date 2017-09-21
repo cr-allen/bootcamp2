@@ -1,0 +1,19 @@
+.box1 {
+  background-color:red;
+  height:50px;
+}
+.box2 {
+  background-color:blue;
+  height:50px;
+}
+.box3 {
+  background-color:orange;
+  height:50px;
+}
+.hero{
+  margin: 0 auto;
+
+}
+.row{
+  border: 5px #7fff00;
+}
