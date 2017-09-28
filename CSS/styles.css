@@ -1,18 +1,26 @@
-.box1 {
-  background-color:red;
-  height:50px;
+
+.button{
+  background-color: rgba(17, 17, 23, 0.39);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 150px;
+    border:10px #FFFFFF;
 }
-.box2 {
-  background-color:blue;
-  height:50px;
+.text{
+  font-family: 'Bree Serif', serif;
+  margin: 20px;
 }
-.box3 {
-  background-color:orange;
-  height:50px;
+.hero-img {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESO_-_The_Milky_Way_panorama_%28by%29.jpg/825px-ESO_-_The_Milky_Way_panorama_%28by%29.jpg");
+  background-size: cover;
+  height: 500px;
+  margin-bottom: 30px;
 }
 .hero{
-  margin: 0 auto;
-}
-.overflow{
-  padding-bottom: 50px;
+  width:100%;
 }
